@@ -43,9 +43,9 @@
 
 ### 🚀 Proyectos Destacados
 
-- **[Nombre del Proyecto 1](#)**: Este proyecto es una aplicación web que utiliza **React** en el frontend y **Node.js** en el backend. Fue desarrollado utilizando **MongoDB** para la base de datos y **Tailwind CSS** para el diseño.
-- **[Nombre del Proyecto 2](#)**: Un sistema de gestión de tareas que integra **Express**, **Sequelize** con **MySQL** y pruebas unitarias utilizando **Jest**.
-- **[Nombre del Proyecto 3](#)**: Una plataforma de ecommerce con **React**, **Node.js**, y **MongoDB**, que permite a los usuarios navegar y comprar productos en tiempo real.
+- **[GIT_GAME](#)**: Este proyecto es una aplicación web sobre un blog de videojuegos que utiliza **React** en el frontend y **Node.js y Express** en el backend. Fue desarrollado utilizando **SQL** para la base de datos y **Tailwind CSS** para el diseño.
+- **[Musenion](#)**: Este proyecto es una aplicacion web sobre un museo de memes que utiliza **React**, **Tailwind** con **Fake Api Json-Server** y pruebas unitarias utilizando **Vitest**.
+- **[Api-Book](#)**: Este proyecto **Node**, **Express**, y **Mysql y Sequelize**, permite un sistema de CRUD donde crea , lista , edita y elimina libros.
 
 > Mira más proyectos en la sección de repositorios, ¡y si te interesa colaborar en algo, hablemos! 🚀
 
