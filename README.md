@@ -47,7 +47,7 @@
 - **[Musenion](#)**: Este proyecto es una aplicacion web sobre un museo de memes que utiliza **React**, **Tailwind** con **Fake Api Json-Server** y pruebas unitarias utilizando **Vitest**.
 - **[Api-Book](#)**: Este proyecto **Node**, **Express**, y **Mysql y Sequelize**, permite un sistema de CRUD donde crea , lista , edita y elimina libros.
 
-> Mira más proyectos en la sección de repositorios, ¡y si te interesa colaborar en algo, hablemos! 🚀
+> Mira más proyectos en la sección de repositorios, ¡y si te interesa colaborar en algo, adelante! 🚀
 
 ---
 
