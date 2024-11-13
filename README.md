@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="center"><strong>Herramientas</strong></td>
-    <td>Git, GitHub, Docker, Postman</td>
+    <td>Git, GitHub, Docker, Postman, Canva, DrawSql , lucidchart</td>
   </tr>
 </table>
 
