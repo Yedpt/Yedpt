@@ -9,7 +9,7 @@
 
 ### 💻 Sobre mí
 
-- 🔭 Actualmente estoy trabajando en **proyectos web full-stack** con tecnologías modernas como **Node.js**, **React** y **MongoDB**.
+- 🔭 Actualmente estoy trabajando en **proyectos web full-stack** con tecnologías modernas como **Node.js**, **React** , **Angular** , **SQL**.
 - 🌱 Me encuentro aprendiendo sobre **arquitectura de software**, **optimización de rendimiento** y nuevas herramientas en **backend** y **frontend**.
 - 👯 Estoy buscando colaborar en **proyectos open-source** donde pueda aprender de la comunidad y aportar mis conocimientos.
 - 💬 Pregúntame sobre **Node.js**, **Express**, **React**, **bases de datos** y cualquier cosa relacionada con **desarrollo web**.
