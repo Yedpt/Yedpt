@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
-    <td>React, Angular, HTML, CSS, Tailwind CSS, Bootstrap, jQuery</td>
+    <td>JavaScript, React, Angular, HTML, CSS, Tailwind CSS, Bootstrap, jQuery</td>
   </tr>
   <tr>
     <td align="center"><strong>Backend</strong></td>
