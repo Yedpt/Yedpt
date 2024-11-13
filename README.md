@@ -13,9 +13,8 @@
 - 🌱 Me encuentro aprendiendo sobre **arquitectura de software**, **optimización de rendimiento** y nuevas herramientas en **backend** y **frontend**.
 - 👯 Estoy buscando colaborar en **proyectos open-source** donde pueda aprender de la comunidad y aportar mis conocimientos.
 - 💬 Pregúntame sobre **Node.js**, **Express**, **React**, **bases de datos** y cualquier cosa relacionada con **desarrollo web**.
-- 📫 **Contáctame**: [yeder@example.com](mailto:ypimentel.tapia@gmail.com)
-- 😄 **Pronombres**: él/he/him
-- ⚡ **Dato curioso**: Me encanta escribir código limpio, eficiente y altamente mantenible. ¡Menos es más! 😎
+- 📫 **Contáctame**: [ypimentel.tapia@gmail.com](mailto:ypimentel.tapia@gmail.com)
+- ⚡ **Dato curioso**: Me encanta escribir código limpio, eficiente y altamente mantenible y me gusta detectar errores en código. 
 
 ---
 
