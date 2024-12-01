@@ -1,6 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Yeder</h1>
 <h3 align="center">Desarrollador Full Stack | Apasionado por crear experiencias web innovadoras y eficientes</h3>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74309042/160262161-1919e9d2-6b25-47f5-978a-e29c1f41fa98.gif" alt="banner" width="100%" />
 </p>
