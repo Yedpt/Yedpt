@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/74309042/160262161-1919e9d2-6b25-47f5-978a-e29c1f41fa98.gif" alt="banner" width="100%" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 💻 Sobre mí
 
@@ -20,7 +20,7 @@
 - 📫 **Contáctame**: [ypimentel.tapia@gmail.com](mailto:ypimentel.tapia@gmail.com)
 - ⚡ **Dato curioso**: Me encanta escribir código limpio, eficiente y altamente mantenible y me gusta detectar errores en código. 
 
----
+
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -43,7 +43,7 @@
   </tr>
 </table>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🚀 Proyectos Destacados
 
@@ -53,7 +53,7 @@
 
 > Mira más proyectos en la sección de repositorios, ¡y si te interesa colaborar en algo, adelante! 🚀
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🌐 Encuéntrame en
 
@@ -72,7 +72,7 @@
   </a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 📈 Estadísticas de GitHub
 
@@ -80,12 +80,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yedpt&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estadísticas de GitHub">
 </p>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yedpt&layout=compact&theme=radical&hide_title=true" alt="Top Lenguajes más usados" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🎉 ¡Gracias por visitar mi perfil! ¡Espero conectar contigo y compartir conocimientos! 😊
