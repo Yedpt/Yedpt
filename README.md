@@ -13,6 +13,7 @@
 
 ### 💻 Sobre mí
 
+- 🚀 Actualmente **busco nuevas oportunidades laborales** como desarrollador web full stack, donde pueda aportar mis habilidades, aprender y crecer junto a un equipo talentoso.
 - 🔭 Actualmente estoy trabajando en **proyectos web full-stack** con tecnologías modernas como **Node.js**, **React** , **Angular** , **SQL**.
 - 🌱 Me encuentro aprendiendo sobre **arquitectura de software**, **optimización de rendimiento** y nuevas herramientas en **backend** y **frontend**.
 - 👯 Estoy buscando colaborar en **proyectos open-source** donde pueda aprender de la comunidad y aportar mis conocimientos.
@@ -61,7 +62,7 @@
   <a href="https://www.linkedin.com/in/yeder-pimentel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:yeder@example.com">
+  <a href="mailto:ypimentel.tapia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/yedpt">
