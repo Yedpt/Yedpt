@@ -14,7 +14,7 @@
 ### 💻 Sobre mí
 
 - 🚀 Actualmente **busco nuevas oportunidades laborales** como desarrollador web full stack, donde pueda aportar mis habilidades, aprender y crecer junto a un equipo talentoso.
-- 🔭 Actualmente estoy trabajando en **proyectos web full-stack** con tecnologías modernas como **Node.js**, **React** , **Angular** , **SQL**.
+- 🔭 Me encuentro trabajando en **proyectos web full-stack** con tecnologías modernas como **Node.js**, **React** , **Angular** , **SQL**.
 - 🌱 Me encuentro aprendiendo sobre **arquitectura de software**, **optimización de rendimiento** y nuevas herramientas en **backend** y **frontend**.
 - 👯 Estoy buscando colaborar en **proyectos open-source** donde pueda aprender de la comunidad y aportar mis conocimientos.
 - 💬 Pregúntame sobre **Node.js**, **Express**, **React**, **bases de datos** y cualquier cosa relacionada con **desarrollo web**.
