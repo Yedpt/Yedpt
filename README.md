@@ -39,6 +39,7 @@
 ![LLM](https://img.shields.io/badge/LLM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
